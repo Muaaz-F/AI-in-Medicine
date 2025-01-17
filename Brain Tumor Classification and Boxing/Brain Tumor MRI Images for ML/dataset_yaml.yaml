@@ -1,0 +1,9 @@
+names:
+- Glioma
+- Meningioma
+- No Tumor
+- Pituitary
+nc: 4
+path: C:/Users/muaaz/OneDrive - UT Arlington/Muaaz Faiyazuddin/Kaggle
+train: C:/Users/muaaz/OneDrive - UT Arlington/Muaaz Faiyazuddin/Kaggle\Train
+val: C:/Users/muaaz/OneDrive - UT Arlington/Muaaz Faiyazuddin/Kaggle\Val
